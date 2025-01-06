@@ -24,4 +24,4 @@ A sleek, modern, and tech-inspired theme for Ventoy and GRUB2, designed by AlalT
 1. **Download the Theme**  
    Clone or download this repository to your local machine:  
    ```bash
-[   https://github.com/asiddau-alal-kuffar/AlalTech.git ]
+    https://github.com/asiddau-alal-kuffar/AlalTech.git
